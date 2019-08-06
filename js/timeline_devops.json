@@ -1,0 +1,134 @@
+{
+    "timeline" : [
+        {
+            "day" : "0",
+            "role" : "Sales Team",
+            "title" : "Customer Positioning and Internal Organization & Planning",
+            "image" : "imgs/org_planning.jpg",
+            "notes" : "Customer Introduction to Oracle Cloud Accelerate for the Developer Program",
+            "links" : [
+              {
+              "link" : "",
+              "text" : "sample link"
+              }
+            ],
+            "videos" : [{
+                    "link" : "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4",
+                    "text" : "Sample Video"
+                } ]
+        },
+        {
+            "day" : "0",
+            "role" : "Ideator",
+            "title" : "Opportunity Value Identification",
+            "image" : "imgs/ivm.jpg",
+            "notes" : "The Ideator leads the initial investigation of the Customer's DevOps interests and capabilities, and creates an preliminary Ideation Value Map (IVM)",
+            "links" : [
+                            {
+                    "link" : "",
+                    "text" : "sample link"
+                }
+            ]
+        },
+        {
+            "day" : "0",
+            "role" : "Prototyper",
+            "title" : "Initial Launch Pad Creation",
+            "image" : "imgs/landingpad.jpg",
+            "notes" : "The Prototyper builds and posts a baseline Customer Accelerate Launch Pad, containing information identifying the Cloud Accelerate team, results from the preliminary IVM exercise and links to content targeting the customer's interests and capabilities.",
+            "links" : [   {
+                    "link" : "",
+                    "text" : "Add Link"
+                }
+                ]
+        },
+        {
+            "day" : "1",
+            "role" : "Ideator/Prototyper",
+            "title" : "Capability and Interest Validation",
+            "image" : "imgs/validation.jpg",
+            "notes" : "The Ideator and Prototyper introduce the initial release of the Cloud Accelerate Launch Pad to the customer, and then lead a conversation to more fully identify the customer's interests and capabilities. This information is used to provide a more fully qualified IVM",
+            "links" : [
+            {
+                    "link" : "",
+                    "text" : "Add Link"
+                }
+            ],
+            "videos" : [            ]
+        },
+        {
+            "day" : "<br>2-3",
+            "role" : "Prototyper",
+            "title" : "Enablement Planning",
+            "image" : "imgs/planniong_dev.jpg",
+            "notes" : "Using the information captured in the IVM, the Prototyper creates an enablement plan tailored to the customer's capabilities and interests. This enablement plan is added to the Customer Accelerate Launch Pad",
+            "links" : [
+            {
+                    "link" : "",
+                    "text" : "Add Link"
+                }
+            ],
+            "videos" : [
+
+            ]
+        },
+        {
+            "day" : "4",
+            "role" : "Ideator/Prototyper",
+            "title" : "Presentation of Prototype Phase to Customer",
+            "image" : "imgs/roadmap.jpg",
+            "notes" : "The Ideator and Prototyper present to the customer the recommended Enablement Plan. The Enablement plan includes the recommended \"DevelopRed\" Customer Day content and agenda. The Customer Day(s) can span 1, 2 or 3 days depending on the customer's needs and ability to invest time.",
+            "links" : [
+                {
+                    "link" : "",
+                    "text" : "Add Link"
+                }
+            ],
+            "videos" : [            ]
+        },
+        {
+            "day" : "<br>5-9",
+            "role" : "Prototyper",
+            "title" : "DevelopRed Enablment Day(s) content creation and organization",
+            "image" : "imgs/workshop.jpg",
+            "notes" : "The Prototyper will create, assemble and organize the DevelopRed Workshop content, including the assets recommended from the IVM tool",
+            "links" : [
+                {
+                    "link" : "",
+                    "text" : "Add Link"
+                }
+            ]
+        },
+        {
+            "day" : "<br>10-12",
+            "role" : "Ideator/Prototyper",
+            "title" : "DevelopRed Enablment Day Delivery",
+            "image" : "imgs/dev_red.jpg",
+            "notes" : "The Ideator and Prototyper will deliver the DevelopRed workshops based on the Customer's needs and time allowance. The \"Workshop(s)\" will also provide the opportunity to exercise the customer's knowledge, provide rewards, and demonstrate how Oracle Cloud Products provide value in the Customer's DevOps Strategy.",
+            "links" : [
+              {
+                    "link" : "",
+                    "text" : "Add Link"
+                }
+            ]
+        },
+        {
+            "day" : "<br>13-14",
+            "role" : "Ideator/Prototyper",
+            "title" : "Prepare Leadership Presentation",
+            "image" : "imgs/prepare_present.jpg",
+            "notes" : "The Ideator and Prototyper will summarize on the Accelerate Launch Pad the lessons learned and accomplishments made during the Prototype Phase. A list of next steps will also be provided. The Ideator and Prototyper will prepare a Developer to help with the upcoming presentation to the Development Leadership.",
+            "links" : [
+              
+            ],
+            "videos" : [            ]
+        },
+        {
+            "day" : "15",
+            "role" : "Ideator/Prototyper",
+            "title" : "Present to Leadership",
+            "image" : "imgs/present_final.jpg",
+            "notes" : "The Ideator, Prototyper and Developer will present to the Development Leadership a summary of the Accelerate Prototype Phase, including information on lessons learned, the value proposition of Oracle Cloud Products in the Customer's DevOps strategy, and next steps for moving forward."
+        }
+    ]
+}
