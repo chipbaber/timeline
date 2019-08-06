@@ -11,8 +11,6 @@ animation: makeSalesRepLook 15s ease infinite;
 .clearfix:after { clear: both; }
 
 /*Bg_Animation*/
-
-
 @-webkit-keyframes makeSalesRepLook {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
@@ -96,8 +94,6 @@ float:left;
 	border: 4px solid #47a3da;
 	text-indent: -8000px;
 }
-
-
 
 .step_image{
 float: left;
